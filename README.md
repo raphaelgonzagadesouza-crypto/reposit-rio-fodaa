@@ -1,2 +1,2 @@
-# reposit-rio-fodaa
+# repositorio-fodaa
 descrição mais fodaa
